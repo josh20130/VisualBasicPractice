@@ -1,0 +1,12 @@
+C:\Users\Josh\source\repos\VbPractice\bin\Debug\VbPractice.exe.config
+C:\Users\Josh\source\repos\VbPractice\bin\Debug\VbPractice.exe
+C:\Users\Josh\source\repos\VbPractice\bin\Debug\VbPractice.pdb
+C:\Users\Josh\source\repos\VbPractice\bin\Debug\VbPractice.xml
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.vbprojResolveAssemblyReference.cache
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.Form1.resources
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.Resources.resources
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.vbproj.GenerateResource.Cache
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.vbproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.exe
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.xml
+C:\Users\Josh\source\repos\VbPractice\obj\Debug\VbPractice.pdb
